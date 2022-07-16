@@ -1,6 +1,7 @@
 # ElectrAI
 
-ElectrAI is an AI for detecting electronic components such as resistors.
+ElectrAI is an AI for detecting electronic components such as resistors.<br>
+[Tensorflow's Colaboratory Notebook](https://colab.research.google.com/github/khanhlvg/tflite_raspberry_pi/blob/main/object_detection/Train_custom_model_tutorial.ipynb) was used as a template to this one.
 
 ### Capability
 
