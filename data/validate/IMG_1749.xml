@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validate</folder>
+	<filename>IMG_1749.JPEG</filename>
+	<path>C:\Users\silvi\Projects\electrai\data\validate\IMG_1749.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>resistor_thd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>964</ymin>
+			<xmax>793</xmax>
+			<ymax>1205</ymax>
+		</bndbox>
+	</object>
+</annotation>
